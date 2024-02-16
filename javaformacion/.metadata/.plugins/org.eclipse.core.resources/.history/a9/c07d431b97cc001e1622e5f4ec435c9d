@@ -1,0 +1,9 @@
+package com.ipartek.formacion.introduccion;
+
+public class Introduccion {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

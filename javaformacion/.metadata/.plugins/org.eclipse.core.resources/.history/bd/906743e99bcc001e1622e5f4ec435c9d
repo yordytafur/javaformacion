@@ -1,0 +1,13 @@
+package com.ipartek.formacion.introduccion;
+
+public class Introduccion {
+
+	public static void main(String[] args) {
+
+	System.out.println("Hola campullo");
+	System.out.println("Venga nene");
+	System.out.println("Lo que digas");
+	System.out.println("Go");
+	}
+
+}
